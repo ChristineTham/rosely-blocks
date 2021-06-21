@@ -1,6 +1,6 @@
 <?php
 /**
- * The main template file
+ * Search template file
  *
  * This is the most generic template file in a WordPress theme
  * and one of the two required files for a theme (the other being style.css).
@@ -14,7 +14,6 @@
  */
 get_header();
 
-// the query
-echo gutenberg_block_template_part( 'index' );
+echo gutenberg_block_template_part( 'search' );
 
 get_footer();

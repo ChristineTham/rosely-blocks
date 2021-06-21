@@ -7,20 +7,20 @@
 type: themes
  
 # The internal project name 
-projectName: Wordup Example Project
+projectName: Rosely Blocks
 
 # The slug of your project. CAUTION: You have to reinstall your dev server, when you change the slug.
-slug: wordup-example-project
+slug: rosely-blocks
 
 
 # WordPress installation config 
 wpInstall:
-  title: Wordup Example Project
+  title: Rosely Blocks
   language: en_US
   users:
     - name: admin
       password: 123456
-      email: test@example.com
+      email: info@visualvoyager.net
       role: administrator
   plugins: {}
   themes: {}
